@@ -5,7 +5,7 @@ In the current implementation, it simply remembers the received time and keeps i
 
 ## Using
 
-```
+```js
 import { default as PlaytimeSearcher, TIME_IS_UNKNOWN } from "./playtime-searcher.js";
 
 const SQUAD_GAME_ID = 393380;
